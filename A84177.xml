@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Every mans case, or A brotherly support to Mr. VVill. Larner, prisoner in the New-Prison in Mayden-Lane, London. Also, another letter from a prisoner, to Mr. Larner.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84177</idno>
+            <idno type="STC">Wing E3551</idno>
+            <idno type="STC">Thomason E337_5</idno>
+            <idno type="STC">ESTC R200820</idno>
+            <idno type="EEBO-CITATION">99861455</idno>
+            <idno type="PROQUEST">99861455</idno>
+            <idno type="VID">113592</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84177)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113592)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E337[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Every mans case, or A brotherly support to Mr. VVill. Larner, prisoner in the New-Prison in Mayden-Lane, London. Also, another letter from a prisoner, to Mr. Larner.</title>
+                  <author>J. M.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Larner's last press,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>The second letter is signed on page 7: J.M.</note>
+                  <note>Annotation on Thomason copy: "May 9 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Larner, William, fl. 1641-1659 --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+               <term>Booksellers and bookselling --  England --  London --  Early works to 1800.</term>
+               <term>Censorship --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113592:1"/>
+            <pb n="1" facs="tcp:113592:1" rendition="simple:additions"/>
+            <head>EVERY MANS CASE, OR, <hi>A brotherly Support to Mr.</hi> VVILL. LARNER, Priſoner in the New-Priſon in <hi>Mayden-lane, LONDON. Alſo another Letter from a Priſoner, to Mr.</hi> Larner.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Y Reaſon of your Sufferings, I am much grieved, eſpeci<g ref="char:EOLhyphen"/>ally to conſider, that good men ſhould ſtill be ſubject to the Tyranny of the late High-Commiſſion Promoters, and Informers, the <hi>Stationers,</hi> through whoſe malice, both You and your Servants are thus Impriſoned: Wee have known and obſerved them a long time, how they have been a naughty and vexatious people to all Good Men, as miſchievous as any <hi>Pattentees</hi> in <hi>England:</hi> In the <hi>Biſhops</hi> times, they were like <hi>Set<g ref="char:EOLhyphen"/>ting-Dogges,</hi> to hunt Good Men and Women into the <hi>Star-Cham<g ref="char:EOLhyphen"/>ber,</hi> and <hi>High-Commiſſion</hi> Netts; and wee ſee, it is to little purpoſe to put downe thoſe Courts, and not Punniſh thoſe wicked men; for they hate all that are honeſt in their hearts, becauſe they that are honeſt, are againſt their Patent: and therefore they ſtuddy night and day how to undoe them, and are like <hi>Mothes</hi> in the <hi>State,</hi> creeping into imployment, upon pretext of doing great ſervice, but indeed, be<g ref="char:EOLhyphen"/>ing corrupt themſelves, endeavour to make others ſo too, and miſ<g ref="char:EOLhyphen"/>lead them that give care to them, into ſuch courſes, as will in time make them odious to the World, ſo true it is, <hi>that thoſe that touch Pitch, ſhall be defiled therewith.</hi>
+            </p>
+            <pb n="2" facs="tcp:113592:2"/>
+            <p>And ſuch as they have been, ſuch they continue; for without doubt, they are the principall cauſe why this inhumaine courſe of examining men upon <hi>Intergatories</hi> is continued, eſpecially in crimi<g ref="char:EOLhyphen"/>nall cauſes, notwithſtanding it hath been ſo cryed out upon by <hi>Par<g ref="char:EOLhyphen"/>liaments,</hi> by <hi>Martyrs, Miniſters,</hi> and all true Chriſtian <hi>Lawyers,</hi> as a thing againſt the Lawes of God, of Nature, Nations, and of this Kingdome, (as was faithfully pleaded the other day in Colonell <hi>Lilburns</hi> caſe, at the Lords Barre,) in which Caſe, and likewiſe in another of greater moment, about a Petition rejected by their Lordſhips, their Lordſhips have dealt ſo Nobly, and Worthily, as hath put their Honours paſt all hurt or blemiſh, From ſuch Paper<g ref="char:EOLhyphen"/>pellets, as have unhappily occaſioned your ſufferings: And if all other Parties, intimated in that Paper, <hi>(Londons laſt Warning,)</hi> prove when they are tryed, as their Lordſhips have done, the Author will have cauſe to repent his too haſty Zeal. And certainly their Ho<g ref="char:EOLhyphen"/>nours had paſt it over, and had not inſiſted thus upon you, but upon the <hi>Stationers</hi> inſtigation, and misinformation; and will not perſiſt to examine Free Commoners, <hi>ex Officio,</hi> nor Servants againſt their Maſters, againſt their Wills: all ſorts of People, great and ſmall, ought to <hi>doe as they would be done by;</hi> and God by his Providence fail<g ref="char:EOLhyphen"/>eth not firſt or laſt, to render meaſure for meaſure; Therefore I hope, their Lordſhips will give care no longer to the malitious ſuggeſti<g ref="char:EOLhyphen"/>ons, and inſinuations of wicked men, but upon conſideration of your faithfulneſſe to the Parliament, the affliction of your Wife, and family; and that a ſmall time of impriſonment may undoe you and them, they will not retaine you longer, but ſet you free, and look upon the <hi>Stationers,</hi> as Cankers of the Common-wealth, and deſtructive to all true Honour.</p>
+            <p>However, you doe well to ſtand in the <hi>Liberty, wherein God, and the Law of the Land hath made you free,</hi> and not to be intangled with any yoake of bondage; the greateſt whereof, is for a man to be bound <hi>to Accuſe himſelf, or another:</hi> and next thereunto, is to be enforced, <hi>to be Tryed otherwiſe then by his Peers or Equalls,</hi> in both which, you have carried your ſelf like a true <hi>English-man,</hi> chuſing rather to ſuf<g ref="char:EOLhyphen"/>fer impriſonment, and great affliction, then betray your native Li<g ref="char:EOLhyphen"/>berties, and the Liberties of your Country, for which, all good Peo<g ref="char:EOLhyphen"/>ple will ever love and reſpect you, and all others, who have done, or ſhall doe, as you have done herein.</p>
+            <pb n="3" facs="tcp:113592:2"/>
+            <p>
+               <hi>Pilate</hi> is the firſt we read of, that endeavoured this cruell diſtor<g ref="char:EOLhyphen"/>ting of the mind, ſaying to our Bleſſed Saviour; <hi>I charge thee by the Everlaſting God, tell us who thou art;</hi> a bad Preſident for Chriſtians to follow: and ſtrange it is, it ſhould be owned by any but <hi>Star-Chamber, High-Commiſſion,</hi> or <hi>Pattentee-Chriſtians;</hi> farre be it from any that would truely deſerve that holy Name, to owne ſo unholy a practiſe, and if any favour thereof, be to be found in any of our Le<g ref="char:EOLhyphen"/>gall Tryalls, though it be but to Anſwer <hi>Guilty, or not Guilty,</hi> as it came, and crept in by Tyranny, (for thoſe who know the Truth, know it to be ſo,) ſo ought it to be totally excluded by thoſe, who would be eſteemed true Chriſtian Law-makers, or Reformers.</p>
+            <p>The Lords, by the inſtigation of the <hi>Stationers,</hi> have taken of<g ref="char:EOLhyphen"/>fence againſt you, wherein themſelves are Partees, and if there were no other Reaſon, it is moſt unequall, they ſhould be your Judges: But the Law of the Land is expreſſe, <hi>That you a Commoner, are not to be adjudged of Life, Limbe or Liberty, but by Commoners, who are your Peers, and that upon ſufficient Teſtimony of honeſt and faithfull Witneſſes, face to face, in open Court.</hi> Friend, you are upon a ſure ground, for theſe things are ſo eſſentiall, to the <hi>Freedom of the People, as Parlia<g ref="char:EOLhyphen"/>ments</hi> will never alter them; nor I hope, act contrary to them.</p>
+            <p>And therefore, however the <hi>Commons</hi> in Parliament, have (up<g ref="char:EOLhyphen"/>on miſ-information,) delivered you up to the Lords, to be tryed by them, yet may they as well transferre all the Power they are in<g ref="char:EOLhyphen"/>truſted with, by the generality of all the <hi>Commoners of England,</hi> and referre the whole Government, to the ſole diſpoſing of the Lords. And indeed, they have done little leſſe in this act, then delivered us all up to the Lords, for there is the ſame equity for their trying and Impriſoning mee, and ſo of every man, as for their trying and impriſoning you; So that your caſe in this particular, <hi>Is every mans Caſe,</hi> though generally, men are ſo ſottiſh, as to be ſenſible of the laſh, then, only when it falls upon their own backs, not conſidering, That they may ſuffer to morrow that miſery and calamity, which today their Brother groanes under. I hope therefore, upon better conſideration, the Houſe of <hi>Commons</hi> will take you to their own Protection, and deal with you, as is juſtly due to every <hi>Commoner,</hi> and not hold you in Priſon, unleſſe by faithfull and credible Wit<g ref="char:EOLhyphen"/>neſſes, they find by the Law of the Land, you are guilty of a crime deſerving the fame.</p>
+            <pb n="4" facs="tcp:113592:3"/>
+            <p>And that muſt be no ſmall one, for beleeve it, our Fore-fathers eſteemed Impriſonment no ſmall Puniſhment. Frequent Impriſon<g ref="char:EOLhyphen"/>ment, is an effect of exorbitant Power, by which, ſooner then by any other meanes, plain and mean People are brought to ſtoop to the Wills of the Mighty: it being the way to deſtroy them, their Wives, and Families, by keeping them from their trades, husbandry, and other Callings: and hath ſerved more then any one thing to break the Spirits of the people: being a ſubtill politick puniſhment, that makes, and keepes men tame, and fit for ſlavery, whereas all other puniſhments, if injurious, makes people wilde, and therefore this hath been practiſed by thoſe that have moſt encroached upon the Liberties of the <hi>Engliſh,</hi> as will appeare by Proceedings of four<g ref="char:EOLhyphen"/>ty or threeſcore yeeres laſt paſt in Court, City, and all Countries, every trifle hath been ſufficient to procure an Impriſonment, and the Land groaneth under this intollerable burden ſtill. But of all other Teſtimonies of our Bondage, <hi>Cloſe Impriſonment</hi> is the moſt mani<g ref="char:EOLhyphen"/>feſt: where a man ſhall be kept from the ſight of his Friends, and Comforters in his bonds, and in a gaſtly apprehenſion of he knows not what miſchief may befall him, as hath formerly happened to divers great men, (that might be inſtanced in,) by meanes of the advantage wicked men have taken from the opportunity of ſafely doeing miſchief to a Cloſe-Priſoner. Next to the Rack, and Tor<g ref="char:EOLhyphen"/>ture, certainly this is the moſt unchriſtian, unmanly, and irrationall uſage of <hi>Free-men,</hi> and will, we hope, in this time of Reformation, be utterly baniſhed out of this <hi>Land:</hi> Never had <hi>Parliament</hi> ſuch an op<g ref="char:EOLhyphen"/>portunity as this hath; Nor are we to doubt, but they will performe the ſame: and I ſhould be glad to ſee ſome fruit thereof in their bear<g ref="char:EOLhyphen"/>ing towards you. And that they would look back upon the Station<g ref="char:EOLhyphen"/>ers, (and all other Monopolizers,) and remember them, when they ſhall make ſuit to have the Printing of the Bible, or for other favors, that they have dealt treacherouſly with the Parliament, and have miniſtred occaſion of much trouble and vexation to them, and many of their moſt faithfull Friends, being as the <hi>Amalekites</hi> were to the <hi>Iſraelites,</hi> in their Paſſage from <hi>Aegyptian-Bondage,</hi> to the Freedom of <hi>Canaan.</hi> God, I truſt, will at length remember them, and will alſo, I truſt, deliver you out of the power of their malice, and recompence you a hundred fold for theſe your Sufferings. The <hi>Commons</hi> in Parliament have a right in you, which they cannot di<g ref="char:EOLhyphen"/>ſclaime;
+<pb n="5" facs="tcp:113592:3"/>other Judges you have not; it is moſt unequall you ſhould have other, as I could in few lines demonſtrate, paſt all deniall; but I will not doe it now, and I hope, I ſhall not have further occa<g ref="char:EOLhyphen"/>ſion to viſite you in this kind; I doe not deſire it; I heartily wiſh you at home with your Family, as knowing a little longer impriſonment, may prove your utter overthrow: which would very much afflict the Spirits of your faithfull Freinds, and would not be for the ho<g ref="char:EOLhyphen"/>nour or profit of any. <hi>However, comfort your ſelf in GOD, and be well aſſured, hee will never leave you, nor forſake you; And when the memories of thoſe Officious men, that ſollicite againſt you, ſhall be odious to all good men; you will be remembred, as one that knew and maintained the juſt Li<g ref="char:EOLhyphen"/>berties of</hi> England, <hi>and ſhrunke not in time of Tryall.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>Another</hi> LETTER, <hi>from a Priſoner, to</hi> M<hi rend="sup">r.</hi> LARNER, Priſoner in <hi>Mayden-Lane.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough this Kingdome hath been long vaſſallaged, and kept under an Arbitrary and inſlaved <hi>Power</hi> of evill Governours, and corrupt Judges, and ſo farre have the Counſells of ſome prevailed, that for the freeing and recovery of our juſt LIBERTIES, wee have been neceſſitated to engage our ſelves in this coſtly and uncertaine
+<pb n="6" facs="tcp:113592:4"/>warre againſt the common enemies of our Lawes, wherein the <hi>Free-People</hi> have not ſpared to approve themſelves, in powring out their blood, and ſpending their eſtates, neither have fainted in the worſt of extremityes, but with all cheerfulneſſe have undergone all hazards &amp; difficulties, propoſing to themſelves no other end, nor expecting any other reward, then to reſtore our Lawes to their former vigour and ſtrength, to recover, and leave the ſame to their Poſterity and Chil<g ref="char:EOLhyphen"/>dren, as a Portion and Inheritance; in purſuance whereof, our endea<g ref="char:EOLhyphen"/>vours have had ſuch good ſucceſſe, that when wee ſeemed to be caſt downe, and given for loſt, and irrecoverable, of a ſudden, even to admiration, we were unexpectedly raiſed againe, and as it were re<g ref="char:EOLhyphen"/>ſtored to new life, and victorious Trophyes gained over our Ene<g ref="char:EOLhyphen"/>mies, of late have been ſo many, and great, that few Ages or Hiſto<g ref="char:EOLhyphen"/>ries can paralell the ſame, ſo as we conceived, all lets and hinderan<g ref="char:EOLhyphen"/>ces were taken out of the way, which might any wayes prevent us from injoying the benefit and comfort of theſe our good Lawes, and <hi>juſt Liberties,</hi> formerly trampled under-foot, yet ſo it is, that of Late, by miſ-information, and cunning under-hand dealing, ſome under faire and colourable pretences, have attempted to bring us under a ſervitude, more dangerous and deſtructive to our Lawes and Liberties then the former, whereby the Spirits of the People begin to be much dejected, their affections changed, and many brought into a diſlike of the preſent Government under the <hi>Parliament.</hi> For daily, by abu<g ref="char:EOLhyphen"/>ſed Authority, one or other of late have been caſt into Priſon, for no other thing then their clayming, and holding to their peculiar Inte<g ref="char:EOLhyphen"/>reſts in the Lawes, and for not conſenting to betray their own <hi>Liber<g ref="char:EOLhyphen"/>ties;</hi> But now, (Deare Friend, and Fellow-ſufferer in bonds for the <hi>Common-Liberties,</hi>) we ſhall not I hope any longer be deceived in our expectation for the fruition of our long deſired liberty; for the preſen<g ref="char:EOLhyphen"/>tative body of this Kingdom, in whom the <hi>high Powers</hi> of this King<g ref="char:EOLhyphen"/>dom reſide, have declared, <hi>Wee ſhall no longer be denyed Juſtice, neither otherwiſe proceeded againſt, but according to law;</hi> for this is agreeable to their own words, laid down in their <hi>Declaration</hi> of the 4. of <hi>Aprill,</hi> 1646. which ſaith, <hi>Wee declare our true and reall intention and endea<g ref="char:EOLhyphen"/>vours, to be to maintaine the Antient and fundamentall government of this Kingdom, and to preſerve the Rights and liberties of the Subject:</hi> what more full then this for the vindication of our <hi>Liberties;</hi> what can we
+<pb n="7" facs="tcp:113592:4"/>deſire or expect from them further, then for manifeſtation of their true intention, but this, That their Actions and proceedings for and againſt us, to be ſuitable &amp; correſpondent to their Expreſſions &amp; De<g ref="char:EOLhyphen"/>clarations, which untill we finde the contrary, let us not doubt of, but with boldneſſe put our ſelves forth, and require of them the be<g ref="char:EOLhyphen"/>nefit of the good lawes they have made and confirmed; and I doubt nothing, but theſe Noble Lords will in this concurre with the houſe of <hi>Commons,</hi> and no longer be carried away through the ſubtill in<g ref="char:EOLhyphen"/>ſinuation, and ſiniſter Practiſes of your Adverſaries, and ceaſe to pro<g ref="char:EOLhyphen"/>ſecute or proceed to further Tryall againſt you before them, but will allow you that liberty which in Juſtice they cannot denie you, to make your legall defence; and if you have offended, (as in all criminal cauſes it ought to be,) they will not hinder, nor prevent the Law, but give way, and conſent, <hi>that your Tryall be by your Equalls,</hi> and fellow-<hi>Commoners,</hi> according to the Fundamentall Lawes of this Kingdome, and will cauſe you to have full and ample reparations for the great loſſes &amp; ſufferings ſuſtained by this their hard &amp; in juſt Impriſonment of your ſelf and Servants; which being duly examined by the Letter of the <hi>Law,</hi> and <hi>Magna Charta,</hi> will plainly appeare to be ſo: For by <hi>Magn.</hi> 9. <hi>H.</hi> 3. <hi>cap.</hi> 29. it is Inacted, and Declared, <hi>That no</hi> Free-man <hi>ſhall be taken or Impriſoned, or otherwiſe deſtroyed, nor will the King paſſe upon him, nor condemne him, but by the lawfull judgement of his Peeres, or by the Law of the Land:</hi> Juſtice <hi>and</hi> Right <hi>ſhall not be denyed, or de<g ref="char:EOLhyphen"/>ferred to any Man:</hi> As you are a <hi>Free-man,</hi> ſo the law is your Inheri<g ref="char:EOLhyphen"/>tance, which you have ſtood &amp; ſuffered for, and now, I hope, both you and I ſhall receive the benefit thereof, according to their owne De<g ref="char:EOLhyphen"/>claration, and be no longer Reſtrained of our <hi>Liberties;</hi> which is deſi<g ref="char:EOLhyphen"/>red of him who is your Friend, and Partner in the ſame afflictions with you, for the <hi>Common Liberty.</hi>
+            </p>
+            <closer>
+               <signed>J. M.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb n="8" facs="tcp:113592:5"/>
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>CErtaine Paſſages in the late Relation of the Illegall Procee<g ref="char:EOLhyphen"/>dings againſt Mr. <hi>Larner,</hi> were through ſome caſuall miſtake omitted, which for the further ſatisfaction of thoſe who are deſirous to be acquainted therewith, are hereunder annexed. <hi>
+                  <g ref="char:V">Ʋ</g>iz.</hi>
+            </p>
+            <p>That the uprightneſſe and fidelity of the ſaid Mr. <hi>Larner,</hi> to this preſent Parliament, the ancient <hi>Immunities, Birthrights</hi> and <hi>Freedoms</hi> of the People, ever hath been ſuch, as envy it ſelf is not able to prove any thing againſt him, to render him guilty; and though in his de<g ref="char:EOLhyphen"/>burſements for the <hi>common good,</hi> he may not in the predicament of quantity, be numbred with the mighty and wealthy, yet in quallity, he may challenge precedence from many ſuch, even ſo much, as the poor mans Mite ſometimes exceeds the rich mans Treaſure; for from his owne voluntary Freedome, he hath abſtracted from his Neceſſities, to make an Offering for the Redemption of our Native <hi>Freedoms,</hi> which in <hi>Equity,</hi> is more eſtimable, then ten times more, ſpared from redundant ſuperfluity: yet (notwithſtanding his continued fidelity to the State), it is his unhappineſſe, from the hands of ſuch, who ſhould rather cheriſh, honour and countenance him, and all ſuch who are ſo faithfull to the Common-weal of this Kingdome, then to ſuffer him or them to be ſtill ſubjected to the malice of ſuch fraudulent Varlets, and but lately Epiſcopall <hi>Arbitrary Catch-poles</hi> as <hi>Hunſcott</hi> and his Confederates, who thirſt after his blood; for it is <hi>Hunſcots</hi> deſires, (if his tongue may give evidence to his thoughts,) that Mr. <hi>Larner</hi> might be whipt once a day, for ſix weeks together, and then to beat Hempe other ſix Weekes, and then to be hanged.</p>
+            <q>
+               <l>
+                  <hi>Hunſcott</hi> by this (dear Friends,) tells his own fate,</l>
+               <l>Who well deſerves a
+<note n="*" place="margin">As well as a Thief may, &amp;c.</note> Halter, from the State.</l>
+            </q>
+            <p>Such meaſure as hee metrs another, ought (in <hi>equity</hi>) to be mett to him againe.</p>
+            <p>
+               <hi>Such as are deſirous to be further informed concerning the</hi> Native Free<g ref="char:EOLhyphen"/>doms <hi>of this Nation, let them peruſe the litte Treatiſe, Intituled</hi> Eng<g ref="char:EOLhyphen"/>lands Birth-right, <hi>and the Book called,</hi> Another word to the wiſe. <hi>Where they may find much worthy Information, and great ſatisfaction.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
